@@ -1,0 +1,11 @@
+body{
+    background-image: url(../imagenes/bab6b079c32478cf13935012747caf2b.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#navbar{
+    z-index: 1;
+    background-color: rgb(45, 49, 56);
+}
